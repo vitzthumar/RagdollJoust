@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6d7c4f1288187e4483efd68c2e973e2
+timeCreated: 1524595222
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bloodSplatter: {fileID: 1808390544783674, guid: f775294e25b965f4ba2679494c3f0e9c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
